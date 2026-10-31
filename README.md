@@ -6,6 +6,14 @@ Repository: https://github.com/ShamelesAbyss/Noema
 
 ---
 
+## Live Gameplay & Audio Demo
+
+[![NOEMA Autonomous Wikipedia Demo](assets/demo.gif)](https://github.com/ShamelesAbyss/Noema/raw/main/assets/demo.mp4)
+
+* **[Click Here to Watch / Download the Full High-Res Demo Video with 48-Voice FM Audio (assets/demo.mp4)](https://github.com/ShamelesAbyss/Noema/raw/main/assets/demo.mp4)**
+
+---
+
 ## Core Architecture
 
 ### 1. Autonomous Procedural Specimens (src/creature.rs)
