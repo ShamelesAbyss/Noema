@@ -69,3 +69,15 @@ Ensure you have the Rust toolchain (cargo) installed:
     git clone https://github.com/ShamelesAbyss/Noema.git
     cd Noema
     cargo run --release
+
+---
+
+## In Loving Memory of Ashlan Haley Rapponotti
+
+*June 21, 2003 – November 13, 2026*
+
+For the beautiful woman who listened to my passions, believed in me, and made my world a happier place simply by being part of it.
+
+Every creation, every discovery, and every milestone reached carries a piece of my heart dedicated to you.
+
+**Forever loved. Forever missed. Forever remembered.** 💜
